@@ -1,4 +1,4 @@
-# CSC615-StartYourMotors
+# Motors
 
 This is the first of a two part assignment. In this first part you will control a motor.  The motor should stop, go forward, backward, as well as speed control using Pulse Width Modulation.
 
