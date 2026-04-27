@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/CSC615-2025-Spring/csc-615-assignment-1-trafficlight-AmgBar.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
