@@ -1,4 +1,4 @@
-# CSC615-RGB-Sensor
+# RGB
 
 This is an Group assignment.  
 

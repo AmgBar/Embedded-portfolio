@@ -1,4 +1,4 @@
-# CSC615-Tapeless-Ruler
+#Ruler
 
 This is an INDIVIDUAL assignment.  You can (and should) work in groups to research how to do the assignment, but each person should code their own version and make their own submission.
 
