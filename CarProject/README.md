@@ -1,4 +1,4 @@
-## CSC615 Group Term Project
+##Group Term Project
 
 ### Drive On
 
